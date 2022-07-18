@@ -1,0 +1,2 @@
+# amd
+Teta app
